@@ -3,6 +3,9 @@
 Estudante de **Engenharia de Computação** na UNIVAP · São José dos Campos, SP
 Em busca de **estágio em TI** · Disponibilidade imediata
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashsjc/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucashsjc@gmail.com)
+
 ## 🙋 Sobre mim
 
 - 🎓 Cursando Engenharia de Computação na **UNIVAP** e técnico em **Eletromecânica** pelo SENAI "Santos Dumont"
@@ -62,6 +65,6 @@ App web que pode ser instalado no celular (PWA) e substituiu o controle em cader
 
 ## 📫 Contato
 
+- 💼 LinkedIn: [linkedin.com/in/lucashsjc](https://www.linkedin.com/in/lucashsjc/)
 - ✉️ E-mail: [lucashsjc@gmail.com](mailto:lucashsjc@gmail.com)
 - 🐙 GitHub: [@lucashsjc](https://github.com/lucashsjc)
-
