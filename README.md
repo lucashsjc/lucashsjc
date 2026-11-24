@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Lucas Henrique da Silva 👋
 
-Estudante de **Engenharia de Computação** na UNIVAP · São José dos Campos, SP
+Estudante de **Engenharia de Computação** na UNIVAP · São José dos Campos, SP<br>
 Em busca de **estágio em TI** · Disponibilidade imediata
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashsjc/)
