@@ -1,3 +1,5 @@
+🇧🇷 Português · [🇺🇸 English](README.en.md)
+
 # Olá, eu sou o Lucas Henrique da Silva 👋
 
 Estudante de **Engenharia de Computação** na UNIVAP · São José dos Campos, SP
